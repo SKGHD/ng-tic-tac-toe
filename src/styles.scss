@@ -3,4 +3,15 @@ body {
   display: flex;
   place-content: center;
   text-align: center;
+  color: #eeeeee;
+  background-color: #100e17;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
 }
