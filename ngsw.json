@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1606671088232,
+  "index": "/ng-tic-tac-toe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ng-tic-tac-toe/favicon.ico",
+        "/ng-tic-tac-toe/index.html",
+        "/ng-tic-tac-toe/main.86a7c4f6051a13365394.js",
+        "/ng-tic-tac-toe/manifest.webmanifest",
+        "/ng-tic-tac-toe/polyfills.bf99d438b005d57b2b31.js",
+        "/ng-tic-tac-toe/runtime.359d5ee4682f20e936e9.js",
+        "/ng-tic-tac-toe/styles.be6cb6df6f208e2efae8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ng-tic-tac-toe/assets/icons/icon-128x128.png",
+        "/ng-tic-tac-toe/assets/icons/icon-144x144.png",
+        "/ng-tic-tac-toe/assets/icons/icon-152x152.png",
+        "/ng-tic-tac-toe/assets/icons/icon-192x192.png",
+        "/ng-tic-tac-toe/assets/icons/icon-384x384.png",
+        "/ng-tic-tac-toe/assets/icons/icon-512x512.png",
+        "/ng-tic-tac-toe/assets/icons/icon-72x72.png",
+        "/ng-tic-tac-toe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ng-tic-tac-toe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/ng-tic-tac-toe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/ng-tic-tac-toe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/ng-tic-tac-toe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/ng-tic-tac-toe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/ng-tic-tac-toe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/ng-tic-tac-toe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/ng-tic-tac-toe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/ng-tic-tac-toe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/ng-tic-tac-toe/index.html": "5a82baef1810730bed0dbd902a6d1407121c94c1",
+    "/ng-tic-tac-toe/main.86a7c4f6051a13365394.js": "2ef133cc46c4948555418ba32f19612ee8a72e5c",
+    "/ng-tic-tac-toe/manifest.webmanifest": "c82050e8905357fd0a492512a03a5659f34e16a2",
+    "/ng-tic-tac-toe/polyfills.bf99d438b005d57b2b31.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/ng-tic-tac-toe/runtime.359d5ee4682f20e936e9.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/ng-tic-tac-toe/styles.be6cb6df6f208e2efae8.css": "1135ac57d188af1e3b6f6293b5cb2672f56b0c53"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
